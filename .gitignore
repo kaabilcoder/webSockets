@@ -1,0 +1,6 @@
+ws-frontend/dist/
+ws-frontend/node_modules/
+ws-backend/node_modules/
+ws-backend/dist/
+*.env
+*.log
